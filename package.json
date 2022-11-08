@@ -1,0 +1,17 @@
+{
+  "name": "ninja-pro",
+  "version": "1.0.0",
+  "description": "To install dependencies:",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "bun-types": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
